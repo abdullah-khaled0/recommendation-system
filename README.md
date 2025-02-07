@@ -2,6 +2,15 @@
 
 A **FastAPI-based** product recommendation system that uses **TF-IDF** and **Cosine Similarity** to suggest similar products based on their features.
 
+---
+
+## 📹 Demo
+![Demo](demo.gif)
+> Check out the application in action!
+
+---
+
+
 ## 🚀 Features
 - FastAPI backend for real-time product recommendations
 - Uses **TF-IDF Vectorization** for feature extraction
